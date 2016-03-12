@@ -1,2 +1,3 @@
 # CS543
-README
+convnet.py: CNN http://code.google.com/p/cuda-convnet/
+ 
