@@ -1,3 +1,6 @@
 CS543 <br />
-cuda-convnet2: CNN <br />
-Source: http://code.google.com/p/cuda-convnet/
+nolearn: CNN <br />
+Source: fork from dnouri/nolearn <br />
+<br />
+Dataset contains images of food <br />
+Source: http://research.microsoft.com/en-us/um/redmond/projects/menumatch/
