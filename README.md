@@ -1,3 +1,3 @@
 CS543 <br />
-convnet.py: CNN <br />
+cuda-convnet2: CNN <br />
 Source: http://code.google.com/p/cuda-convnet/
