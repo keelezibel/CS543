@@ -15,38 +15,25 @@ visualize = false;
 
 %% data
 
-
+%{
 frames.images{1}='images/B21.jpg';
 frames.images{2}='images/B22.jpg';
 frames.images{3}='images/B23.jpg';
 frames.images{4}='images/B24.jpg';
 frames.images{5}='images/B25.jpg';
-
-%{
-frames.images{1}='images/1.jpg';
-frames.images{2}='images/2.jpg';
-frames.images{3}='images/3.jpg';
-%}
-%{
-frames.images{1}='images/kermit000.jpg';
-frames.images{2}='images/kermit001.jpg';
-frames.images{3}='images/kermit002.jpg';
 %}
 
-%{
-frames.images{1} ='/Users/xj/Dropbox/Camera Uploads/2014-09-03 14.15.54.jpg';
-frames.images{2} ='/Users/xj/Dropbox/Camera Uploads/2014-09-03 14.15.59.jpg';
-frames.images{3} ='/Users/xj/Dropbox/Camera Uploads/2014-09-03 14.16.02.jpg';
-frames.images{4} ='/Users/xj/Dropbox/Camera Uploads/2014-09-03 14.16.05.jpg';
-frames.images{5} ='/Users/xj/Dropbox/Camera Uploads/2014-09-03 14.16.09.jpg';
-frames.images{6} ='/Users/xj/Dropbox/Camera Uploads/2014-09-03 14.16.16.jpg';
-frames.images{7} ='/Users/xj/Dropbox/Camera Uploads/2014-09-03 14.16.20.jpg';
-frames.images{8} ='/Users/xj/Dropbox/Camera Uploads/2014-09-03 14.16.23.jpg';
-frames.images{9} ='/Users/xj/Dropbox/Camera Uploads/2014-09-03 14.16.26.jpg';
-frames.images{10}='/Users/xj/Dropbox/Camera Uploads/2014-09-03 14.16.29.jpg';
-frames.images{11}='/Users/xj/Dropbox/Camera Uploads/2014-09-03 14.16.33.jpg';
-frames.images{12}='/Users/xj/Dropbox/Camera Uploads/2014-09-03 14.16.36.jpg';
-%}
+frames.images{1}='images/candy1.jpg';
+frames.images{2}='images/candy2.jpg';
+frames.images{3}='images/candy3.jpg';
+frames.images{4}='images/candy4.jpg';
+frames.images{5}='images/candy5.jpg';
+frames.images{6}='images/candy6.jpg';
+frames.images{7}='images/candy7.jpg';
+frames.images{8}='images/candy8.jpg';
+frames.images{9}='images/candy9.jpg';
+
+
 
 
 %% data 
